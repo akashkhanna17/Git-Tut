@@ -1,1 +1,3 @@
-Hello Team We are in Git Sessions
+Hello Team We are in Git Sessions.
+
+Wer are making some changes here.
